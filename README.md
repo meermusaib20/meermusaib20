@@ -5,68 +5,79 @@
 -->
 
 <h1 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/mir-musaib-07b27b321" target="_blank">Mir Musaib</a>!</h1>
-<h3 align="center">🎓 Final-Year B.Tech CSE | 💡 Data Science & AI Enthusiast | 📊 Research-Oriented Learner</h3>
+<h3 align="center">🎓 Final-Year B.Tech CSE | 🤖 AI & Data Science Enthusiast | 💡 NLP • ML • LLM Explorer</h3>
 
 ---
 
 ### 📍 About Me  
 
-🌟 **Final-year B.Tech (Computer Science & Engineering)** student at the **University of Kashmir**, passionate about uncovering insights from data and building intelligent systems.  
-🚀 Exploring **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** to solve real-world problems.  
-💭 Love to explore **AI-driven automation**, **data analytics**, and **research-based projects**.
+🌟 **Final-year B.Tech (Computer Science & Engineering)** student at the **University of Kashmir**, passionate about building **AI-driven intelligent systems** that solve real-world challenges.  
+🚀 Exploring **Machine Learning, Deep Learning, Natural Language Processing (NLP)**, and **Generative AI (LLMs)** to design data-centric solutions.  
+⚙️ Interested in **data pipelines, model optimization, and AI-powered automation**.  
+💭 Love turning data into insights and exploring **AI applications in automation, recruitment tech, and decision systems**.
 
 ---
 
 ### 🎯 Research & Academic Interests
-- 🧠 Data Science & Machine Learning  
-- 🤖 Artificial Intelligence & Deep Learning  
-- 💬 Natural Language Processing  
-- 📊 Data Analytics  
-- 🔍 Predictive Modelling  
-- 🧩 Statistical Learning  
+- 🧠 Data Science, Machine Learning & Deep Learning  
+- 💬 Natural Language Processing (NLP) & LLMs  
+- 📊 Data Analytics & Predictive Modelling  
+- 🔍 Information Retrieval & Search Optimization  
+- 🧩 Data Engineering & ETL Pipelines  
+- 🤖 AI for Automation & Document Understanding (OCR, APIs)
 
 ---
 
 ### 💻 Technical Skills
 
-#### 🧠 Data Science & Machine Learning
-- Data Preprocessing | Model Training & Evaluation  
-- Supervised & Unsupervised Learning  
-- Libraries: **scikit-learn**, **NumPy**, **pandas**, **matplotlib**, **seaborn**, **TensorFlow**
+#### 🧠 Machine Learning, NLP & AI  
+- Data Preprocessing | Model Training | Feature Engineering  
+- Supervised & Unsupervised Learning | Model Evaluation & Optimization  
+- **Libraries:** scikit-learn, pandas, NumPy, Matplotlib, Seaborn, TensorFlow  
+- **NLP Tools:** TF-IDF, Word Embeddings, Text Classification, Basic Transformers  
+- **Exposure to:** OCR-based pipelines, API Integration, Generative AI (LLMs)
 
-#### 🗄️ Databases
-- **MySQL**, **SQLite**  
-- Database Design | Query Optimization | Data Management  
+#### 🗄️ Databases & Data Handling  
+- **MySQL**, **SQLite**, **T-SQL (basic)**  
+- Relational Design | Query Optimization | Data Management  
+- ETL Concepts | Data Wrangling | Data Cleaning  
 
-#### 🧰 Programming & Tools
+#### 🧰 Programming & Tools  
 - **Languages:** Python, C, Java, SQL, PHP, JavaScript  
 - **Frontend:** HTML, CSS, Bootstrap, React  
-- **Scientific Tools:** Jupyter Notebook, Google Colab, Git, GitHub, Excel, API usage  
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, Excel, API usage, AWS (basic)
+
+#### 💡 Soft Skills  
+- Communication | Teamwork | Adaptability | Analytical Thinking  
 
 ---
 
 ### 🧪 Featured Projects  
 
 #### 🚀 [SmartHire - AI Driven Recruitment App (In Progress)]()
-> An intelligent hiring assistant that automates candidate screening and evaluation using AI.
+> Developing an intelligent hiring assistant using **Python**, **ML**, and **AI-based candidate screening**.  
+> Focused on **data flow design, API integration, OCR-based extraction**, and model scalability.
 
-#### 🌦️ Weather Data Analysis
-> Analyzed temperature trends and seasonal patterns using Python, Pandas, and Matplotlib.
+#### 📧 Spam Email Classifier  
+> Built a **TF-IDF + Logistic Regression model** to classify emails as spam or not.  
+> Focused on **imbalanced data handling, model evaluation, and optimization**.
 
-#### 📧 Spam Email Classifier
-> Built a machine learning model to classify emails using **TF-IDF** features and Logistic Regression.
+#### 🌦️ Weather Data Analysis  
+> Analyzed temperature trends and seasonal patterns using Python, Pandas, and Matplotlib.  
+> Gained experience in **data preprocessing and visualization**.
 
-#### 🏨 Hostel Ease – Web-Based Hostel Management System
-> Responsive web app built using PHP, SQL, and Bootstrap for automated hostel operations.
+#### 🎬 Movie Recommendation System  
+> Suggested movies using **similarity-based filtering** (Python, Pandas, scikit-learn).  
+> Demonstrated concepts similar to **hybrid retrieval systems used in LLM-based recommendation engines**.
 
-#### 📚 Library Management System
-> A full-featured library app using PHP, MySQL, and JavaScript for resource tracking and cataloging.
+#### 🎵 Spotify Churn Analysis  
+> Predicted user churn with **classification models and feature engineering**, improving retention insights.
 
-#### 🎬 Movie Recommendation System
-> Suggested movies based on user preferences using similarity-based filtering (Python, Pandas, scikit-learn).
+#### 🏨 Hostel Ease – Web-Based Hostel Management System  
+> Created a responsive web app with **PHP, SQL, and Bootstrap** for hostel operations automation.
 
-#### 🎵 Spotify Churn Analysis
-> Predicted user churn using Pandas and scikit-learn to identify key retention factors.
+#### 📚 Library Management System  
+> Dynamic system with **SQL backend** for efficient cataloging and resource tracking.
 
 ---
 
@@ -95,21 +106,20 @@
 
 ### 🏆 Achievements & Highlights  
 
-- 🧠 Built multiple end-to-end data-driven projects  
-- 💬 Strong foundation in Python, ML, and AI  
-- 📚 Consistent learner with passion for applied research  
-- 🌱 Currently working on AI-based automation (SmartHire)  
+- 🧠 Built multiple end-to-end **ML and NLP-based data projects**  
+- ⚙️ Exposure to **LLMs, OCR, APIs, and AI model optimization**  
+- 💬 Strong foundation in Python, Data Engineering, and Applied AI  
+- 📚 Consistent learner with a focus on **AI-driven research & development**  
+- 🌱 Currently working on **SmartHire – AI-based recruitment automation**
 
 ---
 
 ### 💬 Fun Fact  
-> “The best way to predict the future is to **create it with data.**” ⚙️📈
+> “The best way to predict the future is to **create it with data and intelligence.**” ⚙️📈
 
 ---
 
 <p align="center">
-  <i>⭐ Let's collaborate on AI, Data Science, and Research Projects!</i><br>
+  <i>⭐ Let's collaborate on AI, Data Science, NLP, or Research Projects!</i><br>
   <a href="mailto:meermusaib20@gmail.com"><b>📩 Reach out anytime!</b></a>
 </p>
-
----
