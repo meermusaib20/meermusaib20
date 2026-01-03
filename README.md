@@ -54,30 +54,69 @@
 
 ### 🧪 Featured Projects  
 
-#### 🚀 [SmartHire - AI Driven Recruitment App (In Progress)]()
-> Developing an intelligent hiring assistant using **Python**, **ML**, and **AI-based candidate screening**.  
-> Focused on **data flow design, API integration, OCR-based extraction**, and model scalability.
+#### ✋ Air Digit Recognition using CNN  
+> Built an end-to-end **air-drawn digit recognition system** using **Convolutional Neural Networks (CNNs)** and **computer vision**.  
+> Users can draw digits either using a mouse or by drawing in the air using **hand gesture tracking**, and the system predicts the digit in real time.  
+>  
+> **Key highlights:**  
+> - Custom dataset collection (mouse draw + air draw)  
+> - CNN trained on user-generated data  
+> - Real-time prediction with confidence thresholding  
+> - Hand gesture tracking using **MediaPipe**  
+>  
+> **Tech:** Python, PyTorch, OpenCV, MediaPipe, NumPy  
+
+---
+
+#### 🧠 Handwritten Digit Recognition using CNN  
+> Implemented a **CNN-based digit recognition model** trained on custom and augmented handwritten data.  
+> Focused on improving accuracy on noisy, real-world drawings rather than clean benchmark datasets.  
+>  
+> **Key learnings:**  
+> - Data augmentation for generalization  
+> - Handling class imbalance  
+> - Confidence-based prediction logic  
+>  
+> **Tech:** PyTorch, CNNs, Image Processing  
+
+---
+
+#### 🚀 SmartHire – AI Driven Recruitment App *(In Progress)*  
+> Developing an intelligent hiring assistant using **Python**, **Machine Learning**, and **AI-based candidate screening**.  
+> Focused on **data flow design, OCR-based resume extraction, API integration**, and model scalability.
+
+---
 
 #### 📧 Spam Email Classifier  
 > Built a **TF-IDF + Logistic Regression model** to classify emails as spam or not.  
 > Focused on **imbalanced data handling, model evaluation, and optimization**.
 
+---
+
 #### 🌦️ Weather Data Analysis  
 > Analyzed temperature trends and seasonal patterns using Python, Pandas, and Matplotlib.  
 > Gained experience in **data preprocessing and visualization**.
 
+---
+
 #### 🎬 Movie Recommendation System  
 > Suggested movies using **similarity-based filtering** (Python, Pandas, scikit-learn).  
-> Demonstrated concepts similar to **hybrid retrieval systems used in LLM-based recommendation engines**.
+> Demonstrated concepts similar to **retrieval systems used in modern recommendation engines**.
+
+---
 
 #### 🎵 Spotify Churn Analysis  
-> Predicted user churn with **classification models and feature engineering**, improving retention insights.
+> Predicted user churn using **classification models and feature engineering**, improving user retention insights.
+
+---
 
 #### 🏨 Hostel Ease – Web-Based Hostel Management System  
-> Created a responsive web app with **PHP, SQL, and Bootstrap** for hostel operations automation.
+> Built a responsive web application using **PHP, SQL, and Bootstrap** to automate hostel operations.
+
+---
 
 #### 📚 Library Management System  
-> Dynamic system with **SQL backend** for efficient cataloging and resource tracking.
+> Designed a dynamic system with **SQL backend** for efficient cataloging and resource tracking.
 
 ---
 
