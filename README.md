@@ -68,16 +68,21 @@
 
 ---
 
-#### 🧠 Handwritten Digit Recognition using CNN  
-> Implemented a **CNN-based digit recognition model** trained on custom and augmented handwritten data.  
-> Focused on improving accuracy on noisy, real-world drawings rather than clean benchmark datasets.  
+#### ✍️ Digit Recognition using Neural Networks (Without CNN)  
+> Implemented a **basic digit recognition system using a fully connected neural network**, without using convolutional layers.  
 >  
-> **Key learnings:**  
-> - Data augmentation for generalization  
-> - Handling class imbalance  
-> - Confidence-based prediction logic  
+> This project helped me understand **core deep learning fundamentals** like forward propagation, backpropagation, loss functions, and weight updates at a low level.  
 >  
-> **Tech:** PyTorch, CNNs, Image Processing  
+> **Key focus areas:**  
+> - Flattened image input (28×28)  
+> - Fully connected layers for classification  
+> - Loss calculation and optimization  
+> - Limitations of non-CNN models on image data  
+>  
+> **Learning outcome:**  
+> Understood why CNNs are better suited for image-based tasks compared to simple neural networks.  
+>  
+> **Tech:** Python, PyTorch, Basic Neural Networks  
 
 ---
 
