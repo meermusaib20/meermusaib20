@@ -16,7 +16,7 @@
 ⚙️ Interested in **data pipelines, model optimization, and AI-powered automation**.  
 💭 Love turning data into insights and exploring **AI applications in automation, recruitment tech, and decision systems**.
 
----
+--- 
 
 ### 🎯 Research & Academic Interests
 - 🧠 Data Science, Machine Learning & Deep Learning  
