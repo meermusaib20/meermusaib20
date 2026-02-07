@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hey there, I'm <a  href="https://www.linkedin.com/in/mir-musaib-07b27b321" target="_blank">Mir Musaib</a>!</h1>
 <h3 align="center">🎓 Final-Year B.Tech CSE | 🤖 AI & Data Science Enthusiast | 💡 NLP • ML • LLM Explorer</h3>
 
----
+--- 
 
 ### 📍 About Me  
 
