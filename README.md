@@ -9,7 +9,7 @@
 
 --- 
  
-### 📍 About Me  
+### 📍 About Me   
 
 🌟 **Final-year B.Tech (Computer Science & Engineering)** student at the **University of Kashmir**, passionate about building **AI-driven intelligent systems** that solve real-world challenges.  
 🚀 Exploring **Machine Learning, Deep Learning, Natural Language Processing (NLP)**, and **Generative AI (LLMs)** to design data-centric solutions.  
